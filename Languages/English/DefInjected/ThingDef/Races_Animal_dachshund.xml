@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <WD_Dachshund.label>Dachshund</WD_Dachshund.label>
+  <WD_Dachshund.description>A small dog that kind of looks like a hotdog.</WD_Dachshund.description>
+  <WD_Dachshund.tools.0.label>left claw</WD_Dachshund.tools.0.label>
+  <WD_Dachshund.tools.1.label>right claw</WD_Dachshund.tools.1.label>
+  <WD_Dachshund.tools.3.label>head</WD_Dachshund.tools.3.label>
+
+
+</LanguageData>

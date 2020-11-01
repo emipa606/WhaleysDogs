@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <WD_Boxer.label>Boxer</WD_Boxer.label>
+  <WD_Boxer.labelPlural>Boxers</WD_Boxer.labelPlural>
+  <WD_Boxer.lifeStages.0.label>Young Boxer</WD_Boxer.lifeStages.0.label>
+  <WD_Boxer.lifeStages.0.labelPlural>Young Boxer</WD_Boxer.lifeStages.0.labelPlural>
+  <WD_Boxer.lifeStages.0.labelMale>male Young Boxer</WD_Boxer.lifeStages.0.labelMale>
+  <WD_Boxer.lifeStages.0.labelMalePlural>male Young Boxer</WD_Boxer.lifeStages.0.labelMalePlural>
+  <WD_Boxer.lifeStages.0.labelFemale>female Young Boxer</WD_Boxer.lifeStages.0.labelFemale>
+  <WD_Boxer.lifeStages.0.labelFemalePlural>female Young Boxer</WD_Boxer.lifeStages.0.labelFemalePlural>
+  <WD_Boxer.lifeStages.1.label>Boxer</WD_Boxer.lifeStages.1.label>
+  <WD_Boxer.lifeStages.1.labelPlural>Boxer</WD_Boxer.lifeStages.1.labelPlural>
+  <WD_Boxer.lifeStages.1.labelMale>male Boxer</WD_Boxer.lifeStages.1.labelMale>
+  <WD_Boxer.lifeStages.1.labelMalePlural>male Boxers</WD_Boxer.lifeStages.1.labelMalePlural>
+  <WD_Boxer.lifeStages.1.labelFemale>female Boxer</WD_Boxer.lifeStages.1.labelFemale>
+  <WD_Boxer.lifeStages.1.labelFemalePlural>female Boxers</WD_Boxer.lifeStages.1.labelFemalePlural>
+  <WD_Boxer.lifeStages.2.label>Boxer</WD_Boxer.lifeStages.2.label>
+  <WD_Boxer.lifeStages.2.labelPlural>Boxer</WD_Boxer.lifeStages.2.labelPlural>
+  <WD_Boxer.lifeStages.2.labelMale>male Boxer</WD_Boxer.lifeStages.2.labelMale>
+  <WD_Boxer.lifeStages.2.labelMalePlural>male Boxers</WD_Boxer.lifeStages.2.labelMalePlural>
+  <WD_Boxer.lifeStages.2.labelFemale>female Boxer</WD_Boxer.lifeStages.2.labelFemale>
+  <WD_Boxer.lifeStages.2.labelFemalePlural>female Boxers</WD_Boxer.lifeStages.2.labelFemalePlural>
+  <WD_Boxer.labelMale>male Boxer</WD_Boxer.labelMale>
+  <WD_Boxer.labelMalePlural>male Boxers</WD_Boxer.labelMalePlural>
+  <WD_Boxer.labelFemale>female Boxer</WD_Boxer.labelFemale>
+  <WD_Boxer.labelFemalePlural>female Boxers</WD_Boxer.labelFemalePlural>
+
+
+</LanguageData>

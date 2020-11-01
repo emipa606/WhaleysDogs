@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>WhaleysDogs (Continued)</name>
+  <packageId>Mlie.WhaleysDogs</packageId>
+  <author>Whaley</author>
+  <url>https://github.com/emipa606/WhaleysDogs</url>
+  <supportedVersions>
+    <li>1.0</li>
+    <li>1.1</li>
+    <li>1.2</li>
+  </supportedVersions>
+  <modDependencies />
+  <loadAfter />
+  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+Update of Whaleys mod
+https://steamcommunity.com/sharedfiles/filedetails/?id=1174618231
+
+[img]https://i.imgur.com/7Gzt3Rg.png[/img]
+
+[table]
+    [tr]
+        [td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
+        [td][url=https://github.com/emipa606/WhaleysDogs][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
+    [/tr]
+[/table]
+	
+[img]https://i.imgur.com/NOW7jU1.png[/img]
+B18 UPDATED
+
+Version: 1.7
+	
+Description-
+This mod adds several new dog species to the game. All dogs are considered pets so they can randomly be chosen to drop with pawns. All dogs are currently also found in the wild, mostly forests. Currently - Corgis, Jack Russell Terriers, Beagles, Dalmatians, Pitbulls, Sheepdogs, Dachshunds, Boxers and Pugs.
+
+Note - 
+Pitbulls and Jack Russells have a slightly higher chance to attack on failed taming. 
+Sheepdogs are shearable and produce 'Sheepdog Wool' 
+
+For those of you using ADS, I've made it compatible with the ADS easy patcher. Mod Load order should be -
+ADS, ADS Easy Patcher, Whaleys Dogs. 
+
+As far as I know this mod shouldn't cause any problems with any other mods, and it should work with existing saves.</description>
+</ModMetaData>

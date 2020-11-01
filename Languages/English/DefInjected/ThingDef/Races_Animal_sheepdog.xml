@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <WD_Sheepdog.label>Sheepdog</WD_Sheepdog.label>
+  <WD_Sheepdog.description>A larger dog covered in long shearable hair.</WD_Sheepdog.description>
+  <WD_Sheepdog.tools.0.label>left claw</WD_Sheepdog.tools.0.label>
+  <WD_Sheepdog.tools.1.label>right claw</WD_Sheepdog.tools.1.label>
+  <WD_Sheepdog.tools.3.label>head</WD_Sheepdog.tools.3.label>
+
+
+</LanguageData>

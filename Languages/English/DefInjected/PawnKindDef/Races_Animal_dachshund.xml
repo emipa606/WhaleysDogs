@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <WD_Dachshund.label>Dachshund</WD_Dachshund.label>
+  <WD_Dachshund.labelPlural>Dachshunds</WD_Dachshund.labelPlural>
+  <WD_Dachshund.lifeStages.0.label>Young Dachshund</WD_Dachshund.lifeStages.0.label>
+  <WD_Dachshund.lifeStages.0.labelPlural>Young Dachshund</WD_Dachshund.lifeStages.0.labelPlural>
+  <WD_Dachshund.lifeStages.0.labelMale>male Young Dachshund</WD_Dachshund.lifeStages.0.labelMale>
+  <WD_Dachshund.lifeStages.0.labelMalePlural>male Young Dachshund</WD_Dachshund.lifeStages.0.labelMalePlural>
+  <WD_Dachshund.lifeStages.0.labelFemale>female Young Dachshund</WD_Dachshund.lifeStages.0.labelFemale>
+  <WD_Dachshund.lifeStages.0.labelFemalePlural>female Young Dachshund</WD_Dachshund.lifeStages.0.labelFemalePlural>
+  <WD_Dachshund.lifeStages.1.label>Dachshund</WD_Dachshund.lifeStages.1.label>
+  <WD_Dachshund.lifeStages.1.labelPlural>Dachshund</WD_Dachshund.lifeStages.1.labelPlural>
+  <WD_Dachshund.lifeStages.1.labelMale>male Dachshund</WD_Dachshund.lifeStages.1.labelMale>
+  <WD_Dachshund.lifeStages.1.labelMalePlural>male Dachshunds</WD_Dachshund.lifeStages.1.labelMalePlural>
+  <WD_Dachshund.lifeStages.1.labelFemale>female Dachshund</WD_Dachshund.lifeStages.1.labelFemale>
+  <WD_Dachshund.lifeStages.1.labelFemalePlural>female Dachshunds</WD_Dachshund.lifeStages.1.labelFemalePlural>
+  <WD_Dachshund.lifeStages.2.label>Dachshund</WD_Dachshund.lifeStages.2.label>
+  <WD_Dachshund.lifeStages.2.labelPlural>Dachshund</WD_Dachshund.lifeStages.2.labelPlural>
+  <WD_Dachshund.lifeStages.2.labelMale>male Dachshund</WD_Dachshund.lifeStages.2.labelMale>
+  <WD_Dachshund.lifeStages.2.labelMalePlural>male Dachshunds</WD_Dachshund.lifeStages.2.labelMalePlural>
+  <WD_Dachshund.lifeStages.2.labelFemale>female Dachshund</WD_Dachshund.lifeStages.2.labelFemale>
+  <WD_Dachshund.lifeStages.2.labelFemalePlural>female Dachshunds</WD_Dachshund.lifeStages.2.labelFemalePlural>
+  <WD_Dachshund.labelMale>male Dachshund</WD_Dachshund.labelMale>
+  <WD_Dachshund.labelMalePlural>male Dachshunds</WD_Dachshund.labelMalePlural>
+  <WD_Dachshund.labelFemale>female Dachshund</WD_Dachshund.labelFemale>
+  <WD_Dachshund.labelFemalePlural>female Dachshunds</WD_Dachshund.labelFemalePlural>
+
+
+</LanguageData>

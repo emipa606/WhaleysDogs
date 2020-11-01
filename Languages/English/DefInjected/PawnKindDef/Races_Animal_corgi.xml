@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <WD_Corgi.label>Corgi</WD_Corgi.label>
+  <WD_Corgi.labelPlural>Corgis</WD_Corgi.labelPlural>
+  <WD_Corgi.lifeStages.0.label>Young Beagle</WD_Corgi.lifeStages.0.label>
+  <WD_Corgi.lifeStages.0.labelPlural>Young Beagles</WD_Corgi.lifeStages.0.labelPlural>
+  <WD_Corgi.lifeStages.0.labelMale>male Young Beagle</WD_Corgi.lifeStages.0.labelMale>
+  <WD_Corgi.lifeStages.0.labelMalePlural>male Young Beagles</WD_Corgi.lifeStages.0.labelMalePlural>
+  <WD_Corgi.lifeStages.0.labelFemale>female Young Beagle</WD_Corgi.lifeStages.0.labelFemale>
+  <WD_Corgi.lifeStages.0.labelFemalePlural>female Young Beagles</WD_Corgi.lifeStages.0.labelFemalePlural>
+  <WD_Corgi.lifeStages.1.label>Corgi</WD_Corgi.lifeStages.1.label>
+  <WD_Corgi.lifeStages.1.labelPlural>Corgi</WD_Corgi.lifeStages.1.labelPlural>
+  <WD_Corgi.lifeStages.1.labelMale>male Corgi</WD_Corgi.lifeStages.1.labelMale>
+  <WD_Corgi.lifeStages.1.labelMalePlural>male Corgis</WD_Corgi.lifeStages.1.labelMalePlural>
+  <WD_Corgi.lifeStages.1.labelFemale>female Corgi</WD_Corgi.lifeStages.1.labelFemale>
+  <WD_Corgi.lifeStages.1.labelFemalePlural>female Corgis</WD_Corgi.lifeStages.1.labelFemalePlural>
+  <WD_Corgi.lifeStages.2.label>Corgi</WD_Corgi.lifeStages.2.label>
+  <WD_Corgi.lifeStages.2.labelPlural>Corgi</WD_Corgi.lifeStages.2.labelPlural>
+  <WD_Corgi.lifeStages.2.labelMale>male Corgi</WD_Corgi.lifeStages.2.labelMale>
+  <WD_Corgi.lifeStages.2.labelMalePlural>male Corgis</WD_Corgi.lifeStages.2.labelMalePlural>
+  <WD_Corgi.lifeStages.2.labelFemale>female Corgi</WD_Corgi.lifeStages.2.labelFemale>
+  <WD_Corgi.lifeStages.2.labelFemalePlural>female Corgis</WD_Corgi.lifeStages.2.labelFemalePlural>
+  <WD_Corgi.labelMale>male Corgi</WD_Corgi.labelMale>
+  <WD_Corgi.labelMalePlural>male Corgis</WD_Corgi.labelMalePlural>
+  <WD_Corgi.labelFemale>female Corgi</WD_Corgi.labelFemale>
+  <WD_Corgi.labelFemalePlural>female Corgis</WD_Corgi.labelFemalePlural>
+
+
+</LanguageData>

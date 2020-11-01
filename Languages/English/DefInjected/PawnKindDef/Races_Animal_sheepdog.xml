@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <WD_Sheepdog.label>Sheepdog</WD_Sheepdog.label>
+  <WD_Sheepdog.labelPlural>Sheepdogs</WD_Sheepdog.labelPlural>
+  <WD_Sheepdog.lifeStages.0.label>Young Sheepdog</WD_Sheepdog.lifeStages.0.label>
+  <WD_Sheepdog.lifeStages.0.labelPlural>Young Sheepdogs</WD_Sheepdog.lifeStages.0.labelPlural>
+  <WD_Sheepdog.lifeStages.0.labelMale>male Young Sheepdog</WD_Sheepdog.lifeStages.0.labelMale>
+  <WD_Sheepdog.lifeStages.0.labelMalePlural>male Young Sheepdogs</WD_Sheepdog.lifeStages.0.labelMalePlural>
+  <WD_Sheepdog.lifeStages.0.labelFemale>female Young Sheepdog</WD_Sheepdog.lifeStages.0.labelFemale>
+  <WD_Sheepdog.lifeStages.0.labelFemalePlural>female Young Sheepdogs</WD_Sheepdog.lifeStages.0.labelFemalePlural>
+  <WD_Sheepdog.lifeStages.1.label>Sheepdog</WD_Sheepdog.lifeStages.1.label>
+  <WD_Sheepdog.lifeStages.1.labelPlural>Sheepdog</WD_Sheepdog.lifeStages.1.labelPlural>
+  <WD_Sheepdog.lifeStages.1.labelMale>male Sheepdog</WD_Sheepdog.lifeStages.1.labelMale>
+  <WD_Sheepdog.lifeStages.1.labelMalePlural>male Sheepdogs</WD_Sheepdog.lifeStages.1.labelMalePlural>
+  <WD_Sheepdog.lifeStages.1.labelFemale>female Sheepdog</WD_Sheepdog.lifeStages.1.labelFemale>
+  <WD_Sheepdog.lifeStages.1.labelFemalePlural>female Sheepdogs</WD_Sheepdog.lifeStages.1.labelFemalePlural>
+  <WD_Sheepdog.lifeStages.2.label>Sheepdog</WD_Sheepdog.lifeStages.2.label>
+  <WD_Sheepdog.lifeStages.2.labelPlural>Sheepdog</WD_Sheepdog.lifeStages.2.labelPlural>
+  <WD_Sheepdog.lifeStages.2.labelMale>male Sheepdog</WD_Sheepdog.lifeStages.2.labelMale>
+  <WD_Sheepdog.lifeStages.2.labelMalePlural>male Sheepdogs</WD_Sheepdog.lifeStages.2.labelMalePlural>
+  <WD_Sheepdog.lifeStages.2.labelFemale>female Sheepdog</WD_Sheepdog.lifeStages.2.labelFemale>
+  <WD_Sheepdog.lifeStages.2.labelFemalePlural>female Sheepdogs</WD_Sheepdog.lifeStages.2.labelFemalePlural>
+  <WD_Sheepdog.labelMale>male Sheepdog</WD_Sheepdog.labelMale>
+  <WD_Sheepdog.labelMalePlural>male Sheepdogs</WD_Sheepdog.labelMalePlural>
+  <WD_Sheepdog.labelFemale>female Sheepdog</WD_Sheepdog.labelFemale>
+  <WD_Sheepdog.labelFemalePlural>female Sheepdogs</WD_Sheepdog.labelFemalePlural>
+
+
+</LanguageData>

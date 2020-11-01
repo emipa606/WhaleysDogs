@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <WD_Beagle.label>Beagle</WD_Beagle.label>
+  <WD_Beagle.labelPlural>Beagles</WD_Beagle.labelPlural>
+  <WD_Beagle.lifeStages.0.label>Young Beagle</WD_Beagle.lifeStages.0.label>
+  <WD_Beagle.lifeStages.0.labelPlural>Young Beagles</WD_Beagle.lifeStages.0.labelPlural>
+  <WD_Beagle.lifeStages.0.labelMale>male Young Beagle</WD_Beagle.lifeStages.0.labelMale>
+  <WD_Beagle.lifeStages.0.labelMalePlural>male Young Beagles</WD_Beagle.lifeStages.0.labelMalePlural>
+  <WD_Beagle.lifeStages.0.labelFemale>female Young Beagle</WD_Beagle.lifeStages.0.labelFemale>
+  <WD_Beagle.lifeStages.0.labelFemalePlural>female Young Beagles</WD_Beagle.lifeStages.0.labelFemalePlural>
+  <WD_Beagle.lifeStages.1.label>Beagle</WD_Beagle.lifeStages.1.label>
+  <WD_Beagle.lifeStages.1.labelPlural>Beagle</WD_Beagle.lifeStages.1.labelPlural>
+  <WD_Beagle.lifeStages.1.labelMale>male Beagle</WD_Beagle.lifeStages.1.labelMale>
+  <WD_Beagle.lifeStages.1.labelMalePlural>male Beagles</WD_Beagle.lifeStages.1.labelMalePlural>
+  <WD_Beagle.lifeStages.1.labelFemale>female Beagle</WD_Beagle.lifeStages.1.labelFemale>
+  <WD_Beagle.lifeStages.1.labelFemalePlural>female Beagles</WD_Beagle.lifeStages.1.labelFemalePlural>
+  <WD_Beagle.lifeStages.2.label>Beagle</WD_Beagle.lifeStages.2.label>
+  <WD_Beagle.lifeStages.2.labelPlural>Beagle</WD_Beagle.lifeStages.2.labelPlural>
+  <WD_Beagle.lifeStages.2.labelMale>male Beagle</WD_Beagle.lifeStages.2.labelMale>
+  <WD_Beagle.lifeStages.2.labelMalePlural>male Beagles</WD_Beagle.lifeStages.2.labelMalePlural>
+  <WD_Beagle.lifeStages.2.labelFemale>female Beagle</WD_Beagle.lifeStages.2.labelFemale>
+  <WD_Beagle.lifeStages.2.labelFemalePlural>female Beagles</WD_Beagle.lifeStages.2.labelFemalePlural>
+  <WD_Beagle.labelMale>male Beagle</WD_Beagle.labelMale>
+  <WD_Beagle.labelMalePlural>male Beagles</WD_Beagle.labelMalePlural>
+  <WD_Beagle.labelFemale>female Beagle</WD_Beagle.labelFemale>
+  <WD_Beagle.labelFemalePlural>female Beagles</WD_Beagle.labelFemalePlural>
+
+
+</LanguageData>

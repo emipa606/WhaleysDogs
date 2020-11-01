@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <WD_Pitbull.label>Pitbull</WD_Pitbull.label>
+  <WD_Pitbull.labelPlural>Pitbulls</WD_Pitbull.labelPlural>
+  <WD_Pitbull.lifeStages.0.label>Young Pitbull</WD_Pitbull.lifeStages.0.label>
+  <WD_Pitbull.lifeStages.0.labelPlural>Young Pitbull</WD_Pitbull.lifeStages.0.labelPlural>
+  <WD_Pitbull.lifeStages.0.labelMale>male Young Pitbull</WD_Pitbull.lifeStages.0.labelMale>
+  <WD_Pitbull.lifeStages.0.labelMalePlural>male Young Pitbull</WD_Pitbull.lifeStages.0.labelMalePlural>
+  <WD_Pitbull.lifeStages.0.labelFemale>female Young Pitbull</WD_Pitbull.lifeStages.0.labelFemale>
+  <WD_Pitbull.lifeStages.0.labelFemalePlural>female Young Pitbull</WD_Pitbull.lifeStages.0.labelFemalePlural>
+  <WD_Pitbull.lifeStages.1.label>Pitbull</WD_Pitbull.lifeStages.1.label>
+  <WD_Pitbull.lifeStages.1.labelPlural>Pitbull</WD_Pitbull.lifeStages.1.labelPlural>
+  <WD_Pitbull.lifeStages.1.labelMale>male Pitbull</WD_Pitbull.lifeStages.1.labelMale>
+  <WD_Pitbull.lifeStages.1.labelMalePlural>male Pitbulls</WD_Pitbull.lifeStages.1.labelMalePlural>
+  <WD_Pitbull.lifeStages.1.labelFemale>female Pitbull</WD_Pitbull.lifeStages.1.labelFemale>
+  <WD_Pitbull.lifeStages.1.labelFemalePlural>female Pitbulls</WD_Pitbull.lifeStages.1.labelFemalePlural>
+  <WD_Pitbull.lifeStages.2.label>Pitbull</WD_Pitbull.lifeStages.2.label>
+  <WD_Pitbull.lifeStages.2.labelPlural>Pitbull</WD_Pitbull.lifeStages.2.labelPlural>
+  <WD_Pitbull.lifeStages.2.labelMale>male Pitbull</WD_Pitbull.lifeStages.2.labelMale>
+  <WD_Pitbull.lifeStages.2.labelMalePlural>male Pitbulls</WD_Pitbull.lifeStages.2.labelMalePlural>
+  <WD_Pitbull.lifeStages.2.labelFemale>female Pitbull</WD_Pitbull.lifeStages.2.labelFemale>
+  <WD_Pitbull.lifeStages.2.labelFemalePlural>female Pitbulls</WD_Pitbull.lifeStages.2.labelFemalePlural>
+  <WD_Pitbull.labelMale>male Pitbull</WD_Pitbull.labelMale>
+  <WD_Pitbull.labelMalePlural>male Pitbulls</WD_Pitbull.labelMalePlural>
+  <WD_Pitbull.labelFemale>female Pitbull</WD_Pitbull.labelFemale>
+  <WD_Pitbull.labelFemalePlural>female Pitbulls</WD_Pitbull.labelFemalePlural>
+
+
+</LanguageData>
