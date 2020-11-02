@@ -52,12 +52,6 @@
       </li>
     </tools>
     <race>
-      <wildBiomes>
-        <Desert>0.01</Desert>
-        <ExtremeDesert>0.005</ExtremeDesert>
-        <AridShrubland>0.01</AridShrubland>
-        <TemperateForest>0.02</TemperateForest>
-      </wildBiomes>
       <body>QuadrupedAnimalWithPawsAndTail</body>
       <herdAnimal>false</herdAnimal>
       <predator>true</predator>

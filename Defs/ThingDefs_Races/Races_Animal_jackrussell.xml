@@ -53,14 +53,6 @@
       </li>
     </tools>
     <race>
-      <wildBiomes>
-        <Desert>0.005</Desert>
-        <!--Wüste-->
-        <AridShrubland>0.005</AridShrubland>
-        <!--Savanne-->
-        <TemperateForest>0.01</TemperateForest>
-        <!--Gemäßigter Wald-->
-      </wildBiomes>
       <body>QuadrupedAnimalWithPawsAndTail</body>
       <herdAnimal>false</herdAnimal>
       <predator>false</predator>
