@@ -1,11 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <WD_Corgi.label>Corgi</WD_Corgi.label>
   <WD_Corgi.description>A small dog thats pretty cute.</WD_Corgi.description>
   <WD_Corgi.tools.0.label>left claw</WD_Corgi.tools.0.label>
   <WD_Corgi.tools.1.label>right claw</WD_Corgi.tools.1.label>
   <WD_Corgi.tools.3.label>head</WD_Corgi.tools.3.label>
-
-
 </LanguageData>

@@ -1,6 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <WD_Jackrussell.label>Jack Russell Terrier</WD_Jackrussell.label>
   <WD_Jackrussell.labelPlural>Jack Russell Terriers</WD_Jackrussell.labelPlural>
   <WD_Jackrussell.lifeStages.0.label>Young Jack Russell Terrier</WD_Jackrussell.lifeStages.0.label>
@@ -25,6 +24,4 @@
   <WD_Jackrussell.labelMalePlural>male Jack Russell Terriers</WD_Jackrussell.labelMalePlural>
   <WD_Jackrussell.labelFemale>female Jack Russell Terrier</WD_Jackrussell.labelFemale>
   <WD_Jackrussell.labelFemalePlural>female Jack Russell Terriers</WD_Jackrussell.labelFemalePlural>
-
-
 </LanguageData>

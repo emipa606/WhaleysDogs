@@ -1,6 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <WD_Corgi.label>Corgi</WD_Corgi.label>
   <WD_Corgi.labelPlural>Corgis</WD_Corgi.labelPlural>
   <WD_Corgi.lifeStages.0.label>Young Beagle</WD_Corgi.lifeStages.0.label>
@@ -25,6 +24,4 @@
   <WD_Corgi.labelMalePlural>male Corgis</WD_Corgi.labelMalePlural>
   <WD_Corgi.labelFemale>female Corgi</WD_Corgi.labelFemale>
   <WD_Corgi.labelFemalePlural>female Corgis</WD_Corgi.labelFemalePlural>
-
-
 </LanguageData>

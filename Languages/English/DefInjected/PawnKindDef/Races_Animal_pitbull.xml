@@ -1,6 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <WD_Pitbull.label>Pitbull</WD_Pitbull.label>
   <WD_Pitbull.labelPlural>Pitbulls</WD_Pitbull.labelPlural>
   <WD_Pitbull.lifeStages.0.label>Young Pitbull</WD_Pitbull.lifeStages.0.label>
@@ -25,6 +24,4 @@
   <WD_Pitbull.labelMalePlural>male Pitbulls</WD_Pitbull.labelMalePlural>
   <WD_Pitbull.labelFemale>female Pitbull</WD_Pitbull.labelFemale>
   <WD_Pitbull.labelFemalePlural>female Pitbulls</WD_Pitbull.labelFemalePlural>
-
-
 </LanguageData>

@@ -1,11 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <WD_Pitbull.label>Pitbull</WD_Pitbull.label>
   <WD_Pitbull.description>A large dog that is extremely loyal, but extremely dangerous.</WD_Pitbull.description>
   <WD_Pitbull.tools.0.label>left claw</WD_Pitbull.tools.0.label>
   <WD_Pitbull.tools.1.label>right claw</WD_Pitbull.tools.1.label>
   <WD_Pitbull.tools.3.label>head</WD_Pitbull.tools.3.label>
-
-
 </LanguageData>

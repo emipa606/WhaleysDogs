@@ -1,12 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <WD_Jackrussell.label>Jack Russell Terrier</WD_Jackrussell.label>
   <WD_Jackrussell.description>A small dog adept at hunting rodents.</WD_Jackrussell.description>
   <WD_Jackrussell.tools.0.label>left claw</WD_Jackrussell.tools.0.label>
   <WD_Jackrussell.tools.1.label>right claw</WD_Jackrussell.tools.1.label>
   <WD_Jackrussell.tools.2.label>cute little teeth</WD_Jackrussell.tools.2.label>
   <WD_Jackrussell.tools.3.label>head</WD_Jackrussell.tools.3.label>
-
-
 </LanguageData>

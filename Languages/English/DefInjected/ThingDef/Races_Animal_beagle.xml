@@ -1,11 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <WD_Beagle.label>Beagle</WD_Beagle.label>
   <WD_Beagle.description>A small dog with floppy ears.</WD_Beagle.description>
   <WD_Beagle.tools.0.label>left claw</WD_Beagle.tools.0.label>
   <WD_Beagle.tools.1.label>right claw</WD_Beagle.tools.1.label>
   <WD_Beagle.tools.3.label>head</WD_Beagle.tools.3.label>
-
-
 </LanguageData>

@@ -1,6 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <WD_Beagle.label>Beagle</WD_Beagle.label>
   <WD_Beagle.labelPlural>Beagles</WD_Beagle.labelPlural>
   <WD_Beagle.lifeStages.0.label>Young Beagle</WD_Beagle.lifeStages.0.label>
@@ -25,6 +24,4 @@
   <WD_Beagle.labelMalePlural>male Beagles</WD_Beagle.labelMalePlural>
   <WD_Beagle.labelFemale>female Beagle</WD_Beagle.labelFemale>
   <WD_Beagle.labelFemalePlural>female Beagles</WD_Beagle.labelFemalePlural>
-
-
 </LanguageData>

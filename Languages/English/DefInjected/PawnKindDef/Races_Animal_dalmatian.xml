@@ -1,6 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <WD_Dalmatian.label>Dalmatian</WD_Dalmatian.label>
   <WD_Dalmatian.labelPlural>Dalmatians</WD_Dalmatian.labelPlural>
   <WD_Dalmatian.lifeStages.0.label>Young Dalmation</WD_Dalmatian.lifeStages.0.label>
@@ -25,6 +24,4 @@
   <WD_Dalmatian.labelMalePlural>male Dalmatians</WD_Dalmatian.labelMalePlural>
   <WD_Dalmatian.labelFemale>female Dalmatian</WD_Dalmatian.labelFemale>
   <WD_Dalmatian.labelFemalePlural>female Dalmatians</WD_Dalmatian.labelFemalePlural>
-
-
 </LanguageData>

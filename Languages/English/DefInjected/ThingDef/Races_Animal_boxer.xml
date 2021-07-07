@@ -1,11 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <WD_Boxer.label>Boxer</WD_Boxer.label>
   <WD_Boxer.description>A large dog with a flat face.</WD_Boxer.description>
   <WD_Boxer.tools.0.label>left claw</WD_Boxer.tools.0.label>
   <WD_Boxer.tools.1.label>right claw</WD_Boxer.tools.1.label>
   <WD_Boxer.tools.3.label>head</WD_Boxer.tools.3.label>
-
-
 </LanguageData>
