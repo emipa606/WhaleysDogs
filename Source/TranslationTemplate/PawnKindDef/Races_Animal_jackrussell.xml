@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Jack Russell Terrier -->
+  <WD_Jackrussell.label>Jack Russell Terrier</WD_Jackrussell.label>
+  <WD_Jackrussell.labelFemale />
+  <WD_Jackrussell.labelFemalePlural />
+  <WD_Jackrussell.labelMale />
+  <WD_Jackrussell.labelMalePlural />
+  <WD_Jackrussell.labelPlural />
+  <!-- EN: Young Jack Russell Terrier -->
+  <WD_Jackrussell.lifeStages.Young_Jack_Russell_Terrier.label>Young Jack Russell Terrier</WD_Jackrussell.lifeStages.Young_Jack_Russell_Terrier.label>
+  <WD_Jackrussell.lifeStages.Young_Jack_Russell_Terrier.labelFemale />
+  <WD_Jackrussell.lifeStages.Young_Jack_Russell_Terrier.labelFemalePlural />
+  <WD_Jackrussell.lifeStages.Young_Jack_Russell_Terrier.labelMale />
+  <WD_Jackrussell.lifeStages.Young_Jack_Russell_Terrier.labelMalePlural />
+  <!-- EN: Young Jack Russells -->
+  <WD_Jackrussell.lifeStages.Young_Jack_Russell_Terrier.labelPlural>Young Jack Russells</WD_Jackrussell.lifeStages.Young_Jack_Russell_Terrier.labelPlural>
+  <WD_Jackrussell.lifeStages.1.label />
+  <WD_Jackrussell.lifeStages.1.labelFemale />
+  <WD_Jackrussell.lifeStages.1.labelFemalePlural />
+  <WD_Jackrussell.lifeStages.1.labelMale />
+  <WD_Jackrussell.lifeStages.1.labelMalePlural />
+  <WD_Jackrussell.lifeStages.1.labelPlural />
+  <WD_Jackrussell.lifeStages.2.label />
+  <WD_Jackrussell.lifeStages.2.labelFemale />
+  <WD_Jackrussell.lifeStages.2.labelFemalePlural />
+  <WD_Jackrussell.lifeStages.2.labelMale />
+  <WD_Jackrussell.lifeStages.2.labelMalePlural />
+  <WD_Jackrussell.lifeStages.2.labelPlural />
+</LanguageData>

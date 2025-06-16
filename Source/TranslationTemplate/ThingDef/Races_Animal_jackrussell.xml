@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Jack Russell Terrier -->
+  <WD_Jackrussell.label>Jack Russell Terrier</WD_Jackrussell.label>
+  <!-- EN: A small dog adept at hunting rodents. -->
+  <WD_Jackrussell.description>A small dog adept at hunting rodents.</WD_Jackrussell.description>
+  <!-- EN: left claw -->
+  <WD_Jackrussell.tools.left_claw.label>left claw</WD_Jackrussell.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <WD_Jackrussell.tools.right_claw.label>right claw</WD_Jackrussell.tools.right_claw.label>
+  <!-- EN: cute little teeth -->
+  <WD_Jackrussell.tools.cute_little_teeth.label>cute little teeth</WD_Jackrussell.tools.cute_little_teeth.label>
+  <!-- EN: head -->
+  <WD_Jackrussell.tools.head.label>head</WD_Jackrussell.tools.head.label>
+</LanguageData>

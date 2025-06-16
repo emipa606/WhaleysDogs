@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Dachshund -->
+  <WD_Dachshund.label>Dachshund</WD_Dachshund.label>
+  <!-- EN: A small dog that kind of looks like a hotdog. -->
+  <WD_Dachshund.description>A small dog that kind of looks like a hotdog.</WD_Dachshund.description>
+  <!-- EN: left claw -->
+  <WD_Dachshund.tools.left_claw.label>left claw</WD_Dachshund.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <WD_Dachshund.tools.right_claw.label>right claw</WD_Dachshund.tools.right_claw.label>
+  <!-- EN: head -->
+  <WD_Dachshund.tools.head.label>head</WD_Dachshund.tools.head.label>
+</LanguageData>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Corgi -->
+  <WD_Corgi.label>Corgi</WD_Corgi.label>
+  <!-- EN: A small dog thats pretty cute. -->
+  <WD_Corgi.description>A small dog thats pretty cute.</WD_Corgi.description>
+  <!-- EN: left claw -->
+  <WD_Corgi.tools.left_claw.label>left claw</WD_Corgi.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <WD_Corgi.tools.right_claw.label>right claw</WD_Corgi.tools.right_claw.label>
+  <!-- EN: head -->
+  <WD_Corgi.tools.head.label>head</WD_Corgi.tools.head.label>
+</LanguageData>

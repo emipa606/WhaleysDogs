@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Pug -->
+  <WD_Pug.label>Pug</WD_Pug.label>
+  <!-- EN: A small, round dog with a flat face. -->
+  <WD_Pug.description>A small, round dog with a flat face.</WD_Pug.description>
+  <!-- EN: left claw -->
+  <WD_Pug.tools.left_claw.label>left claw</WD_Pug.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <WD_Pug.tools.right_claw.label>right claw</WD_Pug.tools.right_claw.label>
+  <!-- EN: head -->
+  <WD_Pug.tools.head.label>head</WD_Pug.tools.head.label>
+</LanguageData>

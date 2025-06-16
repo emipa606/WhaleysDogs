@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Boxer -->
+  <WD_Boxer.label>Boxer</WD_Boxer.label>
+  <!-- EN: A large dog with a flat face. -->
+  <WD_Boxer.description>A large dog with a flat face.</WD_Boxer.description>
+  <!-- EN: left claw -->
+  <WD_Boxer.tools.left_claw.label>left claw</WD_Boxer.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <WD_Boxer.tools.right_claw.label>right claw</WD_Boxer.tools.right_claw.label>
+  <!-- EN: head -->
+  <WD_Boxer.tools.head.label>head</WD_Boxer.tools.head.label>
+</LanguageData>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Pitbull -->
+  <WD_Pitbull.label>Pitbull</WD_Pitbull.label>
+  <!-- EN: A large dog that is extremely loyal, but extremely dangerous. -->
+  <WD_Pitbull.description>A large dog that is extremely loyal, but extremely dangerous.</WD_Pitbull.description>
+  <!-- EN: left claw -->
+  <WD_Pitbull.tools.left_claw.label>left claw</WD_Pitbull.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <WD_Pitbull.tools.right_claw.label>right claw</WD_Pitbull.tools.right_claw.label>
+  <!-- EN: head -->
+  <WD_Pitbull.tools.head.label>head</WD_Pitbull.tools.head.label>
+</LanguageData>

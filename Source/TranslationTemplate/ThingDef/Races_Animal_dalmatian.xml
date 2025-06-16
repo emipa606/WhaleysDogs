@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Dalmatian -->
+  <WD_Dalmatian.label>Dalmatian</WD_Dalmatian.label>
+  <!-- EN: A larger dog covered in spots. -->
+  <WD_Dalmatian.description>A larger dog covered in spots.</WD_Dalmatian.description>
+  <!-- EN: left claw -->
+  <WD_Dalmatian.tools.left_claw.label>left claw</WD_Dalmatian.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <WD_Dalmatian.tools.right_claw.label>right claw</WD_Dalmatian.tools.right_claw.label>
+  <!-- EN: head -->
+  <WD_Dalmatian.tools.head.label>head</WD_Dalmatian.tools.head.label>
+</LanguageData>

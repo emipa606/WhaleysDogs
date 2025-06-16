@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 3400082003
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 57fecbb9354e27452c8413d32823623d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 57fecbb9354e27452c8413d32823623d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/Mlie.WhaleysDogs/Textures/Dogs/dachshund/dachshund_east.png
+- Assets/Data/Mlie.WhaleysDogs/Textures/Dogs/jackrussell/jackrussell_north.png
+- Assets/Data/Mlie.WhaleysDogs/Textures/Dogs/pitbull/pitbull_east.png
+- Assets/Data/Mlie.WhaleysDogs/Textures/Dogs/jackrussell/jackrussell_east.png
+- Assets/Data/Mlie.WhaleysDogs/Textures/Dogs/sheepdog/sheepdog_north.png
+- Assets/Data/Mlie.WhaleysDogs/Textures/Dogs/dachshund/dachshund_south.png
+- Assets/Data/Mlie.WhaleysDogs/Textures/Dogs/boxer/boxer_south.png
+- Assets/Data/Mlie.WhaleysDogs/Textures/Dogs/corgi/corgi_north.png
+- Assets/Data/Mlie.WhaleysDogs/Textures/Dogs/dalmation/dalmation_south.png
+- Assets/Data/Mlie.WhaleysDogs/Textures/Dogs/beagle/beagle_east.png
+- Assets/Data/Mlie.WhaleysDogs/Textures/Dogs/pitbull/pitbull_north.png
+- Assets/Data/Mlie.WhaleysDogs/Textures/Dogs/sheepdog/sheepdog_east.png
+- Assets/Data/Mlie.WhaleysDogs/Textures/Dogs/boxer/boxer_north.png
+- Assets/Data/Mlie.WhaleysDogs/Textures/Dogs/dalmation/dalmation_north.png
+- Assets/Data/Mlie.WhaleysDogs/Textures/Dogs/corgi/corgi_east.png
+- Assets/Data/Mlie.WhaleysDogs/Textures/Dogs/beagle/beagle_north.png
+- Assets/Data/Mlie.WhaleysDogs/Textures/Dogs/pitbull/pitbull_south.png
+- Assets/Data/Mlie.WhaleysDogs/Textures/Dogs/corgi/corgi_south.png
+- Assets/Data/Mlie.WhaleysDogs/Textures/Dogs/sheepdog/sheepdog_south.png
+- Assets/Data/Mlie.WhaleysDogs/Textures/Dogs/pug/pug_east.png
+- Assets/Data/Mlie.WhaleysDogs/Textures/Dogs/beagle/beagle_south.png
+- Assets/Data/Mlie.WhaleysDogs/Textures/Dogs/jackrussell/jackrussell_south.png
+- Assets/Data/Mlie.WhaleysDogs/Textures/Dogs/dachshund/dachshund_north.png
+- Assets/Data/Mlie.WhaleysDogs/Textures/Dogs/boxer/boxer_east.png
+- Assets/Data/Mlie.WhaleysDogs/Textures/Dogs/pug/pug_north.png
+- Assets/Data/Mlie.WhaleysDogs/Textures/Dogs/dalmation/dalmation_east.png
+- Assets/Data/Mlie.WhaleysDogs/Textures/Dogs/pug/pug_south.png
+Dependencies: []

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Dalmatian -->
+  <WD_Dalmatian.label>Dalmatian</WD_Dalmatian.label>
+  <WD_Dalmatian.labelFemale />
+  <WD_Dalmatian.labelFemalePlural />
+  <WD_Dalmatian.labelMale />
+  <WD_Dalmatian.labelMalePlural />
+  <WD_Dalmatian.labelPlural />
+  <!-- EN: Young Dalmation -->
+  <WD_Dalmatian.lifeStages.Young_Dalmation.label>Young Dalmation</WD_Dalmatian.lifeStages.Young_Dalmation.label>
+  <WD_Dalmatian.lifeStages.Young_Dalmation.labelFemale />
+  <WD_Dalmatian.lifeStages.Young_Dalmation.labelFemalePlural />
+  <WD_Dalmatian.lifeStages.Young_Dalmation.labelMale />
+  <WD_Dalmatian.lifeStages.Young_Dalmation.labelMalePlural />
+  <!-- EN: Young Dalmatians -->
+  <WD_Dalmatian.lifeStages.Young_Dalmation.labelPlural>Young Dalmatians</WD_Dalmatian.lifeStages.Young_Dalmation.labelPlural>
+  <WD_Dalmatian.lifeStages.1.label />
+  <WD_Dalmatian.lifeStages.1.labelFemale />
+  <WD_Dalmatian.lifeStages.1.labelFemalePlural />
+  <WD_Dalmatian.lifeStages.1.labelMale />
+  <WD_Dalmatian.lifeStages.1.labelMalePlural />
+  <WD_Dalmatian.lifeStages.1.labelPlural />
+  <WD_Dalmatian.lifeStages.2.label />
+  <WD_Dalmatian.lifeStages.2.labelFemale />
+  <WD_Dalmatian.lifeStages.2.labelFemalePlural />
+  <WD_Dalmatian.lifeStages.2.labelMale />
+  <WD_Dalmatian.lifeStages.2.labelMalePlural />
+  <WD_Dalmatian.lifeStages.2.labelPlural />
+</LanguageData>

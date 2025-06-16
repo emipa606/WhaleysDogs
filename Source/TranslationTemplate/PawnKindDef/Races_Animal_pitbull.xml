@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Pitbull -->
+  <WD_Pitbull.label>Pitbull</WD_Pitbull.label>
+  <WD_Pitbull.labelFemale />
+  <WD_Pitbull.labelFemalePlural />
+  <WD_Pitbull.labelMale />
+  <WD_Pitbull.labelMalePlural />
+  <WD_Pitbull.labelPlural />
+  <!-- EN: Young Pitbull -->
+  <WD_Pitbull.lifeStages.Young_Pitbull.label>Young Pitbull</WD_Pitbull.lifeStages.Young_Pitbull.label>
+  <WD_Pitbull.lifeStages.Young_Pitbull.labelFemale />
+  <WD_Pitbull.lifeStages.Young_Pitbull.labelFemalePlural />
+  <WD_Pitbull.lifeStages.Young_Pitbull.labelMale />
+  <WD_Pitbull.lifeStages.Young_Pitbull.labelMalePlural />
+  <!-- EN: Young Pitbull -->
+  <WD_Pitbull.lifeStages.Young_Pitbull.labelPlural>Young Pitbull</WD_Pitbull.lifeStages.Young_Pitbull.labelPlural>
+  <WD_Pitbull.lifeStages.1.label />
+  <WD_Pitbull.lifeStages.1.labelFemale />
+  <WD_Pitbull.lifeStages.1.labelFemalePlural />
+  <WD_Pitbull.lifeStages.1.labelMale />
+  <WD_Pitbull.lifeStages.1.labelMalePlural />
+  <WD_Pitbull.lifeStages.1.labelPlural />
+  <WD_Pitbull.lifeStages.2.label />
+  <WD_Pitbull.lifeStages.2.labelFemale />
+  <WD_Pitbull.lifeStages.2.labelFemalePlural />
+  <WD_Pitbull.lifeStages.2.labelMale />
+  <WD_Pitbull.lifeStages.2.labelMalePlural />
+  <WD_Pitbull.lifeStages.2.labelPlural />
+</LanguageData>

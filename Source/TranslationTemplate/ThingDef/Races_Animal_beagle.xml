@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Beagle -->
+  <WD_Beagle.label>Beagle</WD_Beagle.label>
+  <!-- EN: A small dog with floppy ears. -->
+  <WD_Beagle.description>A small dog with floppy ears.</WD_Beagle.description>
+  <!-- EN: left claw -->
+  <WD_Beagle.tools.left_claw.label>left claw</WD_Beagle.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <WD_Beagle.tools.right_claw.label>right claw</WD_Beagle.tools.right_claw.label>
+  <!-- EN: head -->
+  <WD_Beagle.tools.head.label>head</WD_Beagle.tools.head.label>
+</LanguageData>

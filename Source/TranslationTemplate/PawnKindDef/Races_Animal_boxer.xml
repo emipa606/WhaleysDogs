@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Boxer -->
+  <WD_Boxer.label>Boxer</WD_Boxer.label>
+  <WD_Boxer.labelFemale />
+  <WD_Boxer.labelFemalePlural />
+  <WD_Boxer.labelMale />
+  <WD_Boxer.labelMalePlural />
+  <WD_Boxer.labelPlural />
+  <!-- EN: Young Boxer -->
+  <WD_Boxer.lifeStages.Young_Boxer.label>Young Boxer</WD_Boxer.lifeStages.Young_Boxer.label>
+  <WD_Boxer.lifeStages.Young_Boxer.labelFemale />
+  <WD_Boxer.lifeStages.Young_Boxer.labelFemalePlural />
+  <WD_Boxer.lifeStages.Young_Boxer.labelMale />
+  <WD_Boxer.lifeStages.Young_Boxer.labelMalePlural />
+  <!-- EN: Young Boxer -->
+  <WD_Boxer.lifeStages.Young_Boxer.labelPlural>Young Boxer</WD_Boxer.lifeStages.Young_Boxer.labelPlural>
+  <WD_Boxer.lifeStages.1.label />
+  <WD_Boxer.lifeStages.1.labelFemale />
+  <WD_Boxer.lifeStages.1.labelFemalePlural />
+  <WD_Boxer.lifeStages.1.labelMale />
+  <WD_Boxer.lifeStages.1.labelMalePlural />
+  <WD_Boxer.lifeStages.1.labelPlural />
+  <WD_Boxer.lifeStages.2.label />
+  <WD_Boxer.lifeStages.2.labelFemale />
+  <WD_Boxer.lifeStages.2.labelFemalePlural />
+  <WD_Boxer.lifeStages.2.labelMale />
+  <WD_Boxer.lifeStages.2.labelMalePlural />
+  <WD_Boxer.lifeStages.2.labelPlural />
+</LanguageData>
